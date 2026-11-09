@@ -109,4 +109,5 @@ I’m looking forward to applying my knowledge, learning from experienced engine
 
 Let’s Connect
 
-LinkedIn · GitHub
+LinkedIn [LinkedIn](https://www.linkedin.com/in/allanur-yakubov-7b8071265/)
+
