@@ -26,7 +26,7 @@ Programming & Operating Systems
 
 * Python
 * Linux & Bash
-* JavaScript
+* C++
 * MySQL
 
 🚀 Featured Projects
